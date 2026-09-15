@@ -1,0 +1,137 @@
+IMAGE CREDITS  -  Green Bowl Daily
+==================================
+Every photograph below came from Pexels and is used under the Pexels License
+(free for commercial and non-commercial use, attribution not required; the
+photographer is named as a courtesy where Pexels gave one). Each file was
+resized, cropped and re-compressed locally. Nothing on this site is hotlinked.
+Images are licensed stock rather than pictures of this kitchen, which is said
+plainly on the about page and in every caption that might otherwise imply
+otherwise.
+
+hero/hero-bowls.jpg
+    source      : https://www.pexels.com/photo/variety-of-dishes-1640771/
+    direct file : https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Ella Olsson
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1800x1012   size: 278KB
+
+recipes/miso-peanut-noodles.jpg
+    source      : https://www.pexels.com/photo/delicious-bowl-of-spicy-peanut-noodles-39415354/
+    direct file : https://images.pexels.com/photos/39415354/pexels-photo-39415354.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 187KB
+
+recipes/chickpea-grain-bowl.jpg
+    source      : https://www.pexels.com/photo/top-view-of-a-salad-with-chickpeas-23285946/
+    direct file : https://images.pexels.com/photos/23285946/pexels-photo-23285946.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 204KB
+
+recipes/overnight-oats.jpg
+    source      : https://www.pexels.com/photo/homemade-oatmeal-in-jar-18378753/
+    direct file : https://images.pexels.com/photos/18378753/pexels-photo-18378753.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 122KB
+
+recipes/green-shakshuka.jpg
+    source      : https://www.pexels.com/photo/overhead-shot-of-shakshuka-in-a-pan-6275160/
+    direct file : https://images.pexels.com/photos/6275160/pexels-photo-6275160.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 184KB
+
+recipes/sesame-slaw.jpg
+    source      : https://www.pexels.com/photo/fresh-garden-salad-with-feta-cheese-38164824/
+    direct file : https://images.pexels.com/photos/38164824/pexels-photo-38164824.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 85KB
+
+recipes/sweet-potato-lentil-stew.jpg
+    source      : https://www.pexels.com/photo/delicious-homemade-chickpea-stew-in-rustic-bowl-30168757/
+    direct file : https://images.pexels.com/photos/30168757/pexels-photo-30168757.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 195KB
+
+steps/step-prep-containers.jpg
+    source      : https://www.pexels.com/photo/fresh-vegetable-in-plastic-containers-5794772/
+    direct file : https://images.pexels.com/photos/5794772/pexels-photo-5794772.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Ella Olsson
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 59KB
+
+steps/step-batch-trays.jpg
+    source      : https://www.pexels.com/photo/flat-lay-photography-of-three-tray-of-foods-1640775/
+    direct file : https://images.pexels.com/photos/1640775/pexels-photo-1640775.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Ella Olsson
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 162KB
+
+steps/step-pulses.jpg
+    source      : https://www.pexels.com/photo/healthy-food-ingredients-on-a-ceramic-plate-5966151/
+    direct file : https://images.pexels.com/photos/5966151/pexels-photo-5966151.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 104KB
+
+steps/step-roasted-chickpeas.jpg
+    source      : https://www.pexels.com/photo/delicious-spiced-chickpeas-in-a-black-bowl-35369047/
+    direct file : https://images.pexels.com/photos/35369047/pexels-photo-35369047.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 72KB
+
+steps/step-noodles-chopsticks.jpg
+    source      : https://www.pexels.com/photo/photo-of-a-noodle-dish-with-row-vegetables-20922954/
+    direct file : https://images.pexels.com/photos/20922954/pexels-photo-20922954.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 39KB
+
+steps/step-chopped-veg.jpg
+    source      : https://www.pexels.com/photo/assorted-ingredients-in-plastic-containers-5779772/
+    direct file : https://images.pexels.com/photos/5779772/pexels-photo-5779772.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Ella Olsson
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 104KB
+
+author/author-tilda-brandt.jpg
+    source      : https://www.pexels.com/photo/close-up-photo-of-a-beautiful-womans-face-4456732/
+    direct file : https://images.pexels.com/photos/4456732/pexels-photo-4456732.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 560x700   size: 55KB
+
+og/og-green-bowl-daily.jpg
+    source      : https://www.pexels.com/photo/packed-food-in-containers-6995300/
+    direct file : https://images.pexels.com/photos/6995300/pexels-photo-6995300.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Ella Olsson
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1200x630   size: 109KB
+
+
+--- replacement: the first shakshuka pick showed the tomato version, which
+    did not match a recipe called green shakshuka ---
+
+recipes/green-shakshuka.jpg
+    source      : https://www.pexels.com/photo/shakshuka-on-black-pan-in-overhead-view-22856272/
+    direct file : https://images.pexels.com/photos/22856272/pexels-photo-22856272.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 195KB
+
+
+--- replacement: the first shakshuka pick showed the tomato version, which
+    did not match a recipe called green shakshuka ---
+
+recipes/green-shakshuka.jpg
+    source      : https://www.pexels.com/photo/close-up-of-eggs-6166855/
+    direct file : https://images.pexels.com/photos/6166855/pexels-photo-6166855.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 207KB
+
